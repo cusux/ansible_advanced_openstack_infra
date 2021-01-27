@@ -1,13 +1,13 @@
 ---
 - name: Manage OpenStack Networks
   hosts: control_node
-  gather_facts: true
-  become: false
+  gather_facts: True
+  become: False
   collections:
     - tok.openstack
 
   roles:
-
     - openstack_manage_networks
 
 ...
+
