@@ -1,3 +1,8 @@
+=== DISCLAIMER OF FORK
+
+This repository has been forked for training purposes only.
+Do not use this repository in any way other than education!
+
 == Overview
 
 A solution to build the necessary infrastucture on OpenStack for Multi Tier App.
